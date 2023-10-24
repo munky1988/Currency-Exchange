@@ -50,9 +50,14 @@
     background-color: hsl(0, 0%, 80%);
 }
 
-
-
-
 .form__result {
     color: green;
+}
+
+.footer {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    border-top: 1px solid black;
+    text-align: center;
 }
