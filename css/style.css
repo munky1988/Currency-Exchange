@@ -9,10 +9,10 @@ html {
 }
 
 .body {
-    background-image: url("../images/Finanse-2022.png");
+    margin: 0 auto;
+    background-image: url("../images/currency.jpeg");
     background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    overflow: auto;
 }
 
 .header {

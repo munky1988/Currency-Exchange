@@ -1,11 +1,11 @@
 .main {
     max-width: 850px;
-    background-color: hsla(0, 0%, 100%, 0.863);
+    background-color: hsla(0, 0%, 100%, 0.938);
     border: 2px solid black;
     border-radius: 10px;
     margin: 100px auto;
     padding: 50px 50px;
-
+    box-shadow: 10px 10px 15px 0px #000000;
 }
 
 .container {
@@ -15,7 +15,7 @@
     text-align: center;
     border: 2px solid black;
     border-radius: 10px;
-
+    
 }
 
 .form__labelText {
